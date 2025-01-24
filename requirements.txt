@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+matplotlib.pyplot
+seaborn
+sklearn
+scipy
+mpl_toolkits
+sklearn.linear_modelLinearRegression
+sklearn.preprocessing 
+sklearn.model_selection
+sklearn.metrics 
+scipy.optimize 
+scipy.interpolate
+mpl_toolkits.mplot3d
